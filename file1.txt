@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello welocome
 this is shivani
+=======
+hellhi
